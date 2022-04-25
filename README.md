@@ -1,5 +1,7 @@
 # StormViewer
 
+In progress ...
+
 ## Description
 
 * App to view storm pictures
@@ -9,6 +11,6 @@
 * UIKit
 
 ## What I learned
-
+* Cocoa Touch: 
 * UITableViewController
 * tableView
