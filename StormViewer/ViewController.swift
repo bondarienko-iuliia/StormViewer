@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  StormViewer
 //
-//  Created by Pavel Tarasevich on 25.04.2022.
+//  Created by Iuliia Bondarenko on 25.04.2022.
 //
 
 import UIKit
