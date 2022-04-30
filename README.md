@@ -1,6 +1,5 @@
 # StormViewer
 
-In progress ...
 
 ## Description
 
@@ -11,6 +10,7 @@ In progress ...
 * UIKit
 
 ## What I learned
-* Cocoa Touch: 
+* Cocoa Touch 
 * UITableViewController
-* tableView
+* UIImageView
+
